@@ -1,10 +1,8 @@
-My personal website, featuring a simple style. It has links back to my github, games I've made, and info about myself.
-
-
 # Logan Kane Personal Site v3
-Files for my personal website.
+Files for my personal website. It has a simple blurb about myself, links to socials/contact/github.
+In the future it will have a few more pages in a different design that are more portfolio focused.
 
-This is the second version of my site, where I house everything.
+This is the third version of my site, where I my personal content.
 Contains/built with only simple:
 * HTML5
 * CSS

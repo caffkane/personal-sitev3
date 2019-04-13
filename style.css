@@ -1,0 +1,97 @@
+html {
+    background-color: #1A1A1D
+    
+}
+.barcode {
+    font-family: 'Libre Barcode 39';
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    line-height: 1.7em;
+    color: #FFFFFF;
+    margin: 150px auto
+}
+
+a,
+a:active,
+a:visited {
+    text-decoration: none;
+    color: #FBFF05;
+    font-weight: 600;
+    border-bottom: 1px dotted #FFFFFF
+}
+
+figure a,
+figure a:active,
+figure a:visited {
+    border-bottom: 0
+}
+
+a:hover {
+    color: #FF4141;
+    border-bottom-style: solid
+}
+
+main {
+    max-width: 700px;
+    margin: 0 auto 200px
+}
+
+main>header {
+    color: #FFFFFF;
+    font-size: 1.9em;
+    letter-spacing: -2px;
+    font-weight: 100;
+    line-height: 1.4em;
+    margin-bottom: 100px
+}
+
+main>header strong {
+    color: #FFFFFF
+}
+
+main>header a,
+main>header a:visited,
+main>header a:active {
+    font-weight: 700;
+    border-bottom: 2px dotted #FFFFFF
+}
+
+main section {
+    margin-top: 60px
+}
+
+main section figure {
+    float: left;
+    width: 43%;
+    margin: 0 30px 0 0
+}
+
+main section figure.right {
+    float: right
+}
+
+main section figure img {
+    width: 100%
+}
+
+main section h3 {
+    color: #FFFFFF
+}
+
+main section h2 {
+    font-size: 1.5em;
+    color: #FFFFFF;
+    margin: 1.4em 0 0.4em;
+    text-transform: uppercase;
+    font-weight: 800
+}
+
+main section h2 ~ p {
+    margin-top: 0
+}
+
+main strong {
+    color: #FFFFFF;
+}
